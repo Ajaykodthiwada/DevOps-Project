@@ -1,0 +1,23 @@
+# Contributing to DevOps Project
+
+Thank you for considering contributing to this project! Here are some guidelines to follow:
+
+## How to Contribute
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and test them thoroughly.
+- Submit a pull request with a clear description of the changes.
+
+## Code Style
+
+- Follow consistent naming conventions.
+- Write clear, concise comments for complex sections of code.
+- Ensure your code is tested and meets our quality standards.
+
+## Reporting Issues
+
+- Before opening a new issue, check if it has already been reported.
+- If reporting a bug, please include steps to reproduce the issue and any relevant error messages.
+
+Thank you for helping to improve this project!
